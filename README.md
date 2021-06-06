@@ -1,2 +1,2 @@
 # cryptozombies
-เรียนรู้การเขียน Smart Constract จาก cryptozombies.io
+เรียนรู้การเขียน Smart Contract จาก cryptozombies.io
